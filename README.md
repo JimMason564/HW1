@@ -4,4 +4,7 @@ This repository contains the homework for Unit 1. This assignment came with a we
 
 I also cleaned up the CSS file by consolidating based on container instead of having a class for each styling piece. This made both files easier to read and understand. I then reordered the elements in the CSS file as they were not in the same order as the HTML file. 
 
+
+![](./assets/images/refactored.png)
+
 [Link Here](https://jimmason564.github.io/HW1/)
